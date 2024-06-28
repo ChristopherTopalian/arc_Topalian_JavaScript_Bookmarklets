@@ -10556,7 +10556,7 @@ function()
         }
     ];
 
-/* if no keywords found, use these responses */
+    /* if no keywords found, use these responses */
     let randomResponses =
     [
         "That's interesting!",
